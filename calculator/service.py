@@ -1,4 +1,4 @@
-from model import *
+from calculator.model import *
 
 class CalculatorService:
     
